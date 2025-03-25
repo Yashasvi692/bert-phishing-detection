@@ -1,0 +1,7 @@
+datasets==3.0.1
+transformers==4.44.2
+evaluate==0.4.3
+numpy==1.26.4
+codecarbon==2.8.3
+pandas==2.2.3
+torch==2.4.1
